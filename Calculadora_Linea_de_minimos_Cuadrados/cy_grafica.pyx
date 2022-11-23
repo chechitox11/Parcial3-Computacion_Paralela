@@ -3,7 +3,7 @@ cimport cython
 """
 Fecha: 2 Nov 2022
 Autor: Sergio Cortes
-prgrama de cython para el calculo de la orbita
+prgrama de cython para el calculo de la regresion de minimos cuadrados parciales
 
 """
 
